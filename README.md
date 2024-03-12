@@ -1,6 +1,6 @@
 ### Hi I'm Chinmay 👋
 
-You can find me on [linkedln](https://www.linkedin.com/in/chinmayjindal/) or [email](mailto:chinmayjindal108@gmail.com).
+You can find me on [linkedln](https://www.linkedin.com/in/chinmayjindal/) or [email](mailto:chinmayjindal108@gmail.com) me.
 </br>
 
 #### Currently 
