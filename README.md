@@ -13,7 +13,8 @@ You can find me on [linkedln](https://www.linkedin.com/in/chinmayjindal/) or [em
 #### About Me 
 <!-- - 🔭 Going deep into ML specifically deep learning 
 <!-- - 🌱 Obsessed with Blockchain and Web 3 development -->
-- 👩‍💻 I got into development through contest math and competitive programming
+- 👩‍💻 I got into development through competitive programming
+- ♾️ I am an intern at [LIVE by Po-Shen Loh](https://live.poshenloh.com/stars)
 - 💬 Ask me about the latest hot picks in hip-hop 
 - 😄 Pronouns: He/Him
 <!-- - 🧗 Fun fact: I once had a 700-day-long Duolingo streak -->
