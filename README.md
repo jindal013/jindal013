@@ -5,8 +5,8 @@ You can find me on [linkedln](https://www.linkedin.com/in/chinmayjindal/) or [em
 
 #### Currently 
 <ul>
-  <li>web developer @Crux Platforms</li>
-  <li>data/ML founding engineer @fireWatch</li>
+  <li>Web developer @ Crux Platforms</li>
+  <li>Data/ML founding engineer @ fireWatch</li>
   <li>Full stack developer @Fintax Solutions </li>
 </ul>
 
