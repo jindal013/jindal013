@@ -13,9 +13,9 @@ You can find me on [linkedln](https://www.linkedin.com/in/chinmayjindal/) or [em
 #### About Me 
 - 🔭 Going deep into ML specifically deep learning
 - 👩‍💻 I got into development through competitive programming
+- 🔥 Raised $10k in pre-seed funding for FireWatch, a geospatial ML pipeline
 - ♾️ I am an intern at [LIVE by Po-Shen Loh](https://live.poshenloh.com/stars)
 - 💬 Ask me about the latest hot picks in hip-hop
-- 🔥 Raised $10k in pre-seed funding for FireWatch, a geospatial ML pipeline
 - 😄 Pronouns: He/Him
 - 🎸 Fun fact: I help produce guitar riffs for a record label
 
