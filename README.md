@@ -7,7 +7,7 @@ You can find me on [linkedln](https://www.linkedin.com/in/chinmayjindal/) or [em
 <ul>
   <li>Automation Developer @ Nokia</li>
   <li>Full Stack Engineer @ Crux Platforms</li>
-  <li>Data/ML founding engineer @ FireWatch</li>
+  <li>Data/ML Founding Engineer @ FireWatch</li>
 </ul>
 
 #### About Me 
