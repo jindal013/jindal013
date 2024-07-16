@@ -3,7 +3,7 @@
 You can find me on [linkedln](https://www.linkedin.com/in/chinmayjindal/) or [email](mailto:chinmayjindal108@gmail.com).
 </br>
 
-#### Currently 
+#### Current and Past Roles 
 <ul>
   <li>ML/AI @ Nokia</li>
   <li>Full Stack Engineer @ Crux Platforms</li>
