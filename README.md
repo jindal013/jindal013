@@ -1,6 +1,6 @@
 ### Hi I'm Chinmay 👋
 
-[jindalchinmay.github.io](https://jindalchinmay.github.io/)
+[My Website!](https://jindalchinmay.github.io/) | [Resume](https://drive.google.com/file/d/1gnXlV0YdyW4xWRa3H7osIZiNWgVc4MGU/view?usp=sharing)
 </br>
 
 #### Current and Past Roles 
