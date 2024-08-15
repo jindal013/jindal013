@@ -1,8 +1,20 @@
 ### Hi I'm Chinmay 👋
 
-[My Website!](https://jindalchinmay.github.io/)
+In the past, I've...
+- 👨‍💻 Developed embedded RAG systems at Nokia to speed up RCA for 80+ R&D teams
+- 🔥 Raised $10k pre-seed for a [wildfire prediction pipeline ](https://github.com/FireWatch-ai/fireWatch)
+- ♾️ Interned at [LIVE by Po-Shen Loh](https://live.poshenloh.com/stars) to re-invent online math education
+- 🎸 Produced guitar riffs for a record label!
+
+<!--[My Website](https://jindalchinmay.github.io/)-->
 </br>
 
+Check out some of my work below!
+
+<!--
+[My Website!](https://jindalchinmay.github.io/)
+</br>
+[LIVE by Po-Shen Loh](https://live.poshenloh.com/stars)
 #### Current and Past Roles 
 <ul>
   <li>ML/AI @ Nokia</li>
@@ -19,8 +31,7 @@
 - 🎸 Fun fact: I help produce guitar riffs for a record label
 
 Check out some of my work below!
-
-<!--
+ 
 **angryraptor108/angryraptor108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
