@@ -4,7 +4,7 @@ In the past, I've...
 - 👨‍💻 Developed embedded RAG systems at Nokia to speed up RCA for 80+ R&D teams
 - 🔥 Raised $10k pre-seed for a [wildfire prediction pipeline ](https://github.com/FireWatch-ai/fireWatch)
 - ♾️ Interned at [LIVE by Po-Shen Loh](https://live.poshenloh.com/stars) to re-invent online math education
-- 🎸 Produced guitar riffs for a record label!
+- 🎸 Produced guitar riffs for a record label
 
 <!--[My Website](https://jindalchinmay.github.io/)-->
 </br>
