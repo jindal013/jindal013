@@ -1,15 +1,15 @@
 # Hey 👋
 
-In the past, I've...
-- 👨‍💻 Developed dynamic RAG & embedded systems at Nokia to speed up RCA for 80+ R&D teams
-- 🔥 Raised $10k pre-seed for a [wildfire prediction pipeline ](https://github.com/FireWatch-ai/fireWatch)
-- ♾️ Interned at [LIVE by Po-Shen Loh](https://live.poshenloh.com/stars) to re-invent online math education
-- 🎸 Produced guitar riffs for a record label
+I'm a 17-year-old developer based in Toronto, Canada. In the past, I've...
+- Developed dynamic RAG & embedded systems at Nokia to speed up RCA for 80+ R&D teams
+- Raised $10k pre-seed for a [wildfire prediction pipeline ](https://github.com/FireWatch-ai/fireWatch)
+- Interned at [LIVE by Po-Shen Loh](https://live.poshenloh.com/stars) to re-invent online math education
+- Produced guitar riffs for a record label
 
 <!--[My Website](https://jindalchinmay.github.io/)-->
 </br>
 
-Check out some of my work below!
+Check out some of my work below
 
 <!--
 [My Website!](https://jindalchinmay.github.io/)
