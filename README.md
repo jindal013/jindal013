@@ -1,4 +1,4 @@
-### Hi I'm Chinmay 👋
+# Hey 👋
 
 In the past, I've...
 - 👨‍💻 Developed dynamic RAG & embedded systems at Nokia to speed up RCA for 80+ R&D teams
