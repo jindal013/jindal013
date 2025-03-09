@@ -1,4 +1,4 @@
-# Hey 👋
+# Hey, I'm Chinmay 👋
 
 I'm a 17-year-old developer based in Toronto, Canada. In the past, I've...
 - Developed dynamic RAG & embedded systems at Nokia to speed up RCA for 80+ R&D teams
