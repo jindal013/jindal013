@@ -1,7 +1,7 @@
 # Hey, I'm Chinmay 👋
 
 I'm a 17-year-old developer based in Toronto, Canada. In the past, I've...
-- Developed dynamic RAG & embedded systems at Nokia to speed up RCA for 80+ R&D teams
+- Developed RAG pipelines & embedded systems at Nokia
 - Raised $10k  for a [wildfire prediction pipeline ](https://github.com/FireWatch-ai/fireWatch)
 - Interned at [LIVE by Po-Shen Loh](https://live.poshenloh.com/stars)
 - Produced guitar riffs for a record label
