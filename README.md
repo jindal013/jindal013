@@ -1,47 +1,9 @@
-# Hey, I'm Chinmay 👋
+# hey, i'm chinmay 👋
 
-I'm a 17-year-old developer based in Toronto, Canada. In the past, I've...
-- Developed RAG pipelines & embedded systems at Nokia
-- Raised $10k  for a [wildfire prediction pipeline ](https://github.com/FireWatch-ai/fireWatch)
-- Interned at [LIVE by Po-Shen Loh](https://live.poshenloh.com/stars)
-- Produced guitar riffs for a record label
+i'm an 18-year-old developer and researcher from toronto.
 
-<!--[My Website](https://jindalchinmay.github.io/)-->
-</br>
+this summer, i'm exploring autoformalization architectures using lean at  non-trivial. previously, i've built a [fine-tuning platform](https://github.com/jindal013/finetune-marketplace) for non-technical creators, an mcp client to make [autonomous hardware interfaces](https://github.com/jindal013/intellisense), and a semantic search engine tool for startups. before that, i helped launch a [wildfire prediction pipeline](https://github.com/FireWatch-ai/fireWatch) that raised $10k. 
 
-Check out some of my work below
+last year, i interned at nokia on their ml team to develop retrieval pipelines. i also taught [competition math](https://live.poshenloh.com/stars) to kids around the world. on the side, i produce guitar riffs for a record label. 
 
-<!--
-[My Website!](https://jindalchinmay.github.io/)
-</br>
-[LIVE by Po-Shen Loh](https://live.poshenloh.com/stars)
-#### Current and Past Roles 
-<ul>
-  <li>ML/AI @ Nokia</li>
-  <li>Full Stack Engineer @ Crux Platforms</li>
-  <li>Founding Engineer @ FireWatch</li>
-</ul>
-
-#### About Me 
-- 🔭 Going deep into ML specifically deep learning
-- 👩‍💻 I got into development through competitive programming
-- 🔥 Raised $10k in pre-seed funding for FireWatch, a geospatial ML pipeline
-- ♾️ I am an intern at [LIVE by Po-Shen Loh](https://live.poshenloh.com/stars)
-- 😄 Pronouns: He/Him
-- 🎸 Fun fact: I help produce guitar riffs for a record label
-
-Check out some of my work below!
- 
-**angryraptor108/angryraptor108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+feel free to reach out at [chinmay.jindal@uwaterloo.ca](mailto:chinmay.jindal@uwaterloo.ca)
